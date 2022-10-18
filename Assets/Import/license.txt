@@ -1,0 +1,11 @@
+Model Information:
+* title:	Obi-Wan Kenobi's lightsaber
+* source:	https://sketchfab.com/3d-models/obi-wan-kenobis-lightsaber-947ed6fd70344368a1a5ddb28ac51ba7
+* author:	KimMurzin (https://sketchfab.com/KimMurzin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Obi-Wan Kenobi's lightsaber" (https://sketchfab.com/3d-models/obi-wan-kenobis-lightsaber-947ed6fd70344368a1a5ddb28ac51ba7) by KimMurzin (https://sketchfab.com/KimMurzin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
